@@ -1,2 +1,10 @@
 ## 练习项目
+##资料
+[spring 文档]{https://spring.io/guides}
+[bootstrap 前端文档]{https://v3.bootcss.com/components/#navbar}
+[Gitub OAuth 第三方登录文档]{https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/}
+[okhttp 传输文档]{https://square.github.io/okhttp/}
+##工具
+[Git]{https://git-scm.com/download}
+[fastjson json转换包]{https://mvnrepository.com/artifact/com.alibaba/fastjson/1.2.58}
 ##项目需求
