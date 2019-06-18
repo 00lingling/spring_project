@@ -4,7 +4,9 @@
 [bootstrap 前端文档]{https://v3.bootcss.com/components/#navbar}
 [Gitub OAuth 第三方登录文档]{https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/}
 [okhttp 传输文档]{https://square.github.io/okhttp/}
+[mvn 如何引入依赖]{https://mvnrepository.com/}
 ##工具
 [Git]{https://git-scm.com/download}
 [fastjson json转换包]{https://mvnrepository.com/artifact/com.alibaba/fastjson/1.2.58}
+[h2 数据库] {http://www.h2database.com/html/quickstart.html}
 ##项目需求
